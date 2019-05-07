@@ -3,6 +3,11 @@
 
 -----
 
-1. Переконайтесь, що Ваша картка зареєстрована через сайт [Socar](https://socar.secureprofile.info/Account/Register):
+УВАГА! Переконайтесь, що Ваша картка зареєстрована. Якщо Ви ще не зареєстрували свою картку, Ви можете перейти на сайт [Socar](https://socar.secureprofile.info/Account/Register) та пройти реєстрацію:
+![](https://sketch.io/render/sk-ada841a74910700a49da7d6e86e3a1b8.jpeg)
 
-![](https://sketch.io/render/sk-3a20e93a2e4a008ff6152a833cd17981.jpeg)
+1. Встановіть мобільний додаток [Socar Level](http://www.socar.com.ua/level.html).
+
+2. Увійдіть у додаток та введіть номер мобільного телефону, закріплений за Вашою карткою:
+![](https://sketch.io/render/sk-7a94ec5e5a83b4e0523a585b4c865fa3.jpeg)
+
